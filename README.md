@@ -1,0 +1,1 @@
+This repository demonstrates common SQL errors, specifically focusing on data type mismatches, implicit type conversions, and issues with self-joins.  The `bug.sql` file contains code exhibiting these errors.  The `bugSolution.sql` file provides corrected versions and explanations.
