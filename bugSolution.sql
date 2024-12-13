@@ -1,0 +1,1 @@
+The solution involves careful data type selection in table schema design.  Explicit type casting can prevent implicit conversion issues.  Self-join queries need clear and unambiguous `JOIN` conditions to avoid data redundancy or inaccuracies.  Always validate your join condition by inspecting sample data to identify unintended matches.
